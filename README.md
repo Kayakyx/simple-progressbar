@@ -42,10 +42,6 @@ Minimum: `1`\
 
 Total tasks.
 
-    // firstChar: '<',
-    // lastChar: '>',
-    // completedChar: '#',
-    // uncompletedChar: '-'
 #### options.firstChar
 
 Type: `string`\
