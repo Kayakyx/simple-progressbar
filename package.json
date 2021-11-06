@@ -1,0 +1,19 @@
+{
+  "name": "simple-progressbar",
+  "version": "1.0.0",
+  "description": "A simple terminal progress bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": ["progress", "terminal", "progressbar", " barprogress-bar", "status"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kayakyx/simple-progressbar.git"
+  },
+  "author": "Kayakyx",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  }
+}
