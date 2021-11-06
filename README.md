@@ -5,7 +5,7 @@
 ## Install
 
 ```
-$ npm install simple-progressbar
+$ npm i @kayakyx/simple-progressbar
 ```
 
 ## Usage

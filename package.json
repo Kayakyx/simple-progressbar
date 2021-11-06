@@ -1,6 +1,6 @@
 {
-  "name": "simple-progressbar",
-  "version": "1.0.0",
+  "name": "@kayakyx/simple-progressbar",
+  "version": "1.0.1",
   "description": "A simple terminal progress bar",
   "main": "index.js",
   "scripts": {
