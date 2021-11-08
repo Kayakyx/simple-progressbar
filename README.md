@@ -11,7 +11,7 @@ $ npm i @kayakyx/simple-progressbar
 ## Usage
 
 ```js
-const { createProgressBar } = require('simple-progressbar')
+const { createProgressBar } = require('@kayakyx/simple-progressbar')
 
 const total = 66
 
